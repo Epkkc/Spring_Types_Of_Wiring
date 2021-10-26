@@ -21,7 +21,7 @@ public class AppConfig {
 
     @Bean
     public static Needle7 getNeedle(Deth8 death){
-        return new Needle7(death);
+        return new Needle7();
     }
 
     @Bean
